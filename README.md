@@ -8,9 +8,12 @@ Hawk.  I want to add to his method using a microcontroller to return the dish to
 pressure in the steam line, closing as pressure drops and opening as pressure rises, monitoring a battery charging system that 
 powers the everything.
 
-Movement of the dish via the motors is accomplished by reverse direction wiring the motors such that instead of moving to expose
+Movement of the dish via the motors is accomplished by reverse direction wiring the motors so that instead of moving to expose
 the solar panel, the dish moves to cover the panel.  The arc of movement from east to west is less than 180 degrees. The arc of movement 
 from the horizon to the height of the sun is less than 90 degrees.  The carriage for the dish will need to be modified to allow for 
 movement.  There will need to be a bearing to allow horizontal movement and a pair of bearings and a shaft for verticle movement.  The 
 weight of the dish is a concern.  I will have to address it either by resting it on a spring loaded support or use a lifting spring to 
-hold the majority of the weight.   
+hold the majority of the weight, or by adding a counter balance.
+
+5/22/19 The OEM equipment of the dish company was completly disassenbled. The parts will need some remanufacturing to work properly.  The 
+East to West orientation will use a motor turning a wheel that tracks along the lower platform which supports the bearing.  
